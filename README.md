@@ -1,4 +1,6 @@
 # Blood-Bank
 
+git init
+
 
 
